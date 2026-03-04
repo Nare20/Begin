@@ -1,5 +1,5 @@
-//   first code
-/*#include<iostream>
+ //first code
+#include<iostream>
 using namespace std;
 int main(){
     int a, b, c;
@@ -10,7 +10,7 @@ int main(){
     c = a+b;
     cout << " Add= " << c;
 }
-//    /n
+   /n
 #include<iostream>
 using namespace std;
 int main(){
@@ -37,7 +37,7 @@ int main() {
     return 0;
 }
 //    string
-/*#include<iostream>
+#include<iostream>
 #include<string>
 using namespace std;
 
@@ -46,7 +46,8 @@ string a = "This is my first program in C++ ";
 cout << a << endl;
  a = "This is my secong program in C++ ";
 cout << a << endl;
-}*/
+}
+
 
 
 
